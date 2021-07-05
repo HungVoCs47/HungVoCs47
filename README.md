@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**HungVoCs47/HungVoCs47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Ho Chi Minh University of Technology (HCMUT)
 - 🌱 I’m currently learning Data Science and Machine Learning
@@ -13,4 +9,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
